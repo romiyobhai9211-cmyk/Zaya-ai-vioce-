@@ -1,0 +1,6 @@
+{
+  "name": "Zoya AI Assistant",
+  "description": "A real-time, voice-first AI assistant with a sassy, witty, and confident personality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
